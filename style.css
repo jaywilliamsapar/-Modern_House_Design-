@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+
+.images {
+    margin-top: 180px;
+    height: 200px;
+    padding: 15px 10px ;
+    
+}
+h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 3.5rem;
+    margin-bottom: 15px;
+    border: 7px solid rgb(28, 35, 39);
+    padding: 20px;
+    background-color: gray;
+    margin: 0 80px 20px 80px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 40px;
+}
+.viewfort {
+    text-align: center;
+    color: #fff;
+    
+}
